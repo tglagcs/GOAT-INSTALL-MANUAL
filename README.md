@@ -39,8 +39,10 @@ IOS: [https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690](https://app
 > 2) Копируем ссылку вида vless://***
 
 > 3) Вставляем скопированную ссылку, жмем reload чтобы обновиться  
+![](https://raw.githubusercontent.com/tglagcs/GOAT-INSTALL-MANUAL/refs/heads/main/Desk1.png)
 
 > 4) Жмем правой кнопкой мыши на иконку в трее, выбираем Set system proxy  
+![](https://raw.githubusercontent.com/tglagcs/GOAT-INSTALL-MANUAL/refs/heads/main/Desk2.png)
 
 > 5) Готово!
 
@@ -53,6 +55,7 @@ P.S. Чтобы выключить - повторно жмем правой кн
 > 2) Копируем ссылку вида vless://***
 
 > 3) Вставляем скопированную ссылку  
+![](https://raw.githubusercontent.com/tglagcs/GOAT-INSTALL-MANUAL/refs/heads/main/PH.jpg)
 
 > 4) Жмем на кнопочку запуска
 
