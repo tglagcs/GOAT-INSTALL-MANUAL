@@ -14,22 +14,22 @@
 
 **v2rayNG**
 
-Android: [https://github.com/2dust/v2rayNG/releases/download/2.0.9/v2rayNG_2.0.9_arm64-v8a.apk](https://github.com/2dust/v2rayNG/releases/download/2.0.9/v2rayNG_2.0.9_arm64-v8a.apk)  
+- Android: [https://github.com/2dust/v2rayNG/releases/download/2.0.9/v2rayNG_2.0.9_arm64-v8a.apk](https://github.com/2dust/v2rayNG/releases/download/2.0.9/v2rayNG_2.0.9_arm64-v8a.apk)  
   
 
 **v2RayTun**
 
-Android: [https://play.google.com/store/apps/details?id=com.v2raytun.android](https://play.google.com/store/apps/details?id=com.v2raytun.android)
+- Android: [https://play.google.com/store/apps/details?id=com.v2raytun.android](https://play.google.com/store/apps/details?id=com.v2raytun.android)
 
-IOS: [https://apps.apple.com/ru/app/v2raytun/id6476628951](https://apps.apple.com/ru/app/v2raytun/id6476628951)
+- IOS: [https://apps.apple.com/ru/app/v2raytun/id6476628951](https://apps.apple.com/ru/app/v2raytun/id6476628951)
 
   
 
 **V2Box**
 
-Android: [https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box)
+- Android: [https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box)
 
-IOS: [https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)  
+- IOS: [https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)  
   
 
 ## Порядок подключения на компьютере:
