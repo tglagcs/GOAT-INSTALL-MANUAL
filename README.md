@@ -6,7 +6,7 @@
 
 **v2rayN**
 
-[https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip](https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip)
+- [https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip](https://github.com/2dust/v2rayN/releases/download/7.18.0/v2rayN-windows-64.zip)
 
   
 
